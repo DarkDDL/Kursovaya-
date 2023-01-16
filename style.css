@@ -1,0 +1,70 @@
+body{
+    position:relative;
+    overflow-y:scroll;
+    overflow-x:scroll;
+}
+#q1{
+    z-index: 1000;
+    position:absolute;
+    background-color: white;
+    width: 100%;
+    height: 92px;
+    top: -76px;
+}iframe{
+    position: absolute;
+    border:0px;
+    top:-65px;
+}
+#yare-yare-daze{
+    border:0px;
+    top:-50px;
+}
+#q2{
+    z-index: 1000;
+    position:absolute;
+    background-color: white;
+    height: 620px;
+    width: 15px;
+}
+    #q3{
+        z-index: 1000;
+        position:absolute;
+        background-color: white;
+        height:620px;
+        width: 18px;
+        left: 98.4%;
+    }
+        #q4{
+            z-index: 1000;
+            position:absolute;
+            background-color: white;
+            width: 540px;
+            height: 145px;
+            top: 420px;
+        }
+            #q5{
+                z-index: 1000;
+                position:absolute;
+                background-color: white;
+                width: 540px;
+                height: 145px;
+                top: 420px;
+                left: 58%;
+            }
+                #q6{
+                    z-index: 1000;
+                    position:absolute;
+                    background-color: white;
+                    top: 490px;
+                    width: 100%;
+                    height: 120px;
+                }
+                    #q7{
+                        z-index: 1000;
+                        position:absolute;
+                        background-color: white;
+                        top: 420px;
+                        width: 300px;
+                        height: 23px;
+                        left: 480px;
+                    }        
